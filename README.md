@@ -26,7 +26,7 @@ pip install pandas
 
 2. Execute o script Python.
    ```python
-  python combinador_csv.py
+   python combinador_csv.py
 
 ## Notas
   - Certifique-se de que o caminho para o diretório termine com uma barra (\\ no Windows ou / em sistemas baseados em Unix).
